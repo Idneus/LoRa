@@ -10,4 +10,4 @@ Transmissor: Nosso transmissor estará sempre instalado dentro no carro, com a l
 
 Receptor: Nosso receptor ficará num local estratégico para favorecer a recepção com o mínimo de interferência, mas que também consiga conexão com o wifi. Este ao iniciar fará a conexão no wifi principal da casa, e logo após ao server mqtt, publicará em tópicos específicos com um pequeno delay. Foi configurado para que o tópico a ser transmitido quando receber o sinal do transmissor seja composta pelos dados em Json e publicado no mqtt em tópico específico. Ainda estou tentando configurar corretamente o mqtt Discovery para que seja automaticamente criada uma entidade no mqtt do Home Assistant.
 
-A intenção inicial permanece, mas agora tendo pouco mais de noção sobre as ferramentas e dispositivos que possuo pretendo estudar e ampliar a aplicação destes.
+A intenção original perdura, e agora, com um conhecimento um pouco mais abrangente das ferramentas e dispositivos à minha disposição, estou determinado a aprofundar meu estudo e expandir sua aplicação.
